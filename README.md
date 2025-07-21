@@ -65,6 +65,14 @@ java -jar target/ReportToJira-1.0-SNAPSHOT.jar
 
 A window will appear asking for the URL or local file path of your HTML report. Paste the path, click "Create Ticket," and watch the magic happen!
 
+## Screenshots 📸
+
+Here's a sneak peek at the application in action:
+
+![Application Screenshot 1](1_ReportToJira.png)
+
+![Application Screenshot 2](2_ReportToJira.png)
+
 ---
 
 And that's it! You're now ready to automate your Jira ticket creation. If you have any questions, feel free to open an issue. Or, you know, just figure it out yourself. We believe in you! 😉
