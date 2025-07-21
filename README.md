@@ -69,9 +69,9 @@ A window will appear asking for the URL or local file path of your HTML report. 
 
 Here's a sneak peek at the application in action:
 
-![Application Screenshot 1](1_ReportToJira.png)
+![Application Screenshot 1](assets/1_ReportToJira.png)
 
-![Application Screenshot 2](2_ReportToJira.png)
+![Application Screenshot 2](assets/2_ReportToJira.png)
 
 ---
 
