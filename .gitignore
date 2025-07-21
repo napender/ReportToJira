@@ -1,18 +1,1 @@
-
-# Ignore IDE-specific files
-.idea/
-*.iml
-*.iws
-
-# Ignore Maven target directory
-target/
-
-# Ignore build and dependency files
-pom.xml.versionsBackup
-dependency-reduced-pom.xml
-
-# Ignore environment variables file
 .env
-
-# Ignore sensitive configuration
-src/main/resources/config.properties
